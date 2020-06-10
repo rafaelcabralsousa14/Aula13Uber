@@ -1,0 +1,13 @@
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.exe
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.deps.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.dev.json
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csprojAssemblyReference.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csproj.CoreCompileInputs.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfoInputs.cache
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfo.cs
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\rafac\OneDrive\Documentos\SENAI\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.genruntimeconfig.cache
